@@ -1,0 +1,9 @@
+{
+  "name": "rappel-led",
+  "version": "0.0.1",
+  "description": "Blocs simples pour 7 Grove Chainable RGB LED P9813.",
+  "license": "MIT",
+  "dependencies": {},
+  "files": ["main.ts", "README.md"],
+  "public": false
+}
