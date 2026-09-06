@@ -1,0 +1,8 @@
+{
+  "name": "grove-p9813-7led",
+  "version": "1.0.0",
+  "description": "Grove Chainable RGB LED P9813 - 7 LEDs for micro:bit",
+  "license": "MIT",
+  "dependencies": {"core": "*"},
+  "files": ["p9813.ts"]
+}
